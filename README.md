@@ -7,4 +7,4 @@ HTML\
 CSS
 
 # Deployed Website Link here: 
-  https://goga-23.github.io/Weather-App/
+  https://goga-23.github.io/Music-App/
